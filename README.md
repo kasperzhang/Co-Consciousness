@@ -1,5 +1,5 @@
 # Co-Consciousness
-Unity script for "Co-Consciousness" game design project.
+[Unity script for "Co-Consciousness" game design project.](https://www.youtube.com/watch?v=NqRDWW4VJ5s)
 
 Final Display
 --------------------------------------------------
