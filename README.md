@@ -1,19 +1,17 @@
 # Co-Consciousness
 Unity script for "Co-Consciousness" game design project.
-# Da_Shuhua_LeapMotion
-"Da Shuhua" simulation by processing with Leap Motion <br />
-&nbsp;YouTube: https://youtu.be/tIkzwo37pI4
 
 Final Display
 --------------------------------------------------
-![图片](https://github.com/kasperzhang/Da_Shuhua_LeapMotion/assets/152060338/feb16eb4-65cb-4231-ab7f-7647d26a990d)
+![图片](https://github.com/kasperzhang/Co-Consciousness/assets/152060338/b2134019-82f9-4d76-be3c-c28a51a777d8)
 
-![图片](https://github.com/kasperzhang/Da_Shuhua_LeapMotion/assets/152060338/ff1813bf-9d1c-44e5-bf42-423a3b4c753d)
+![图片](https://github.com/kasperzhang/Co-Consciousness/assets/152060338/0576d909-d557-4281-b950-f15a95bd830b)
 
-![图片](https://github.com/kasperzhang/Da_Shuhua_LeapMotion/assets/152060338/5a4232a1-607c-4fe6-8042-14188e16043c)
+![图片](https://github.com/kasperzhang/Co-Consciousness/assets/152060338/be55ed97-b20d-46a2-ba9a-ae5621bf8479)
 
-![图片](https://github.com/kasperzhang/Da_Shuhua_LeapMotion/assets/152060338/f9072440-f34c-467e-94fa-d9ec1a96d52e)
+![图片](https://github.com/kasperzhang/Co-Consciousness/assets/152060338/47880441-6243-4f95-b40a-5827855c8199)
 
-![图片](https://github.com/kasperzhang/Da_Shuhua_LeapMotion/assets/152060338/6fff6385-a7fd-4b8a-b5bd-7b7a35f01837)
+![图片](https://github.com/kasperzhang/Co-Consciousness/assets/152060338/6dfb0d45-ecaa-4272-825a-5499da088720)
+
 
 
